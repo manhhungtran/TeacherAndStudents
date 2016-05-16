@@ -511,3 +511,6 @@ C:\Users\harbr\Desktop\E-Shop Complete\Web\bin\AutoMapper.xml
 C:\Users\harbr\Desktop\E-Shop Complete\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
 C:\Users\harbr\Desktop\E-Shop Complete\Web\obj\Debug\Web.dll
 C:\Users\harbr\Desktop\E-Shop Complete\Web\obj\Debug\Web.pdb
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\Web\obj\Debug\Web.dll
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\Web\obj\Debug\Web.pdb

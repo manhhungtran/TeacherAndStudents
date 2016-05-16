@@ -14,3 +14,19 @@ C:\Users\harbr\Documents\Visual Studio 2015\Projects\TeachersWithStudents\DataAc
 C:\Users\harbr\Documents\Visual Studio 2015\Projects\TeachersWithStudents\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\harbr\Documents\Visual Studio 2015\Projects\TeachersWithStudents\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
 C:\Users\harbr\Documents\Visual Studio 2015\Projects\TeachersWithStudents\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.MyFirstTime3.resources
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.Cache
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

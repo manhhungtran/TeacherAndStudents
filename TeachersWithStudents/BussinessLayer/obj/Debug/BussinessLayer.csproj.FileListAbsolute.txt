@@ -16,3 +16,21 @@ C:\Users\harbr\Documents\Visual Studio 2015\Projects\TeachersWithStudents\Bussin
 C:\Users\harbr\Documents\Visual Studio 2015\Projects\TeachersWithStudents\BussinessLayer\obj\Debug\BussinessLayer.csprojResolveAssemblyReference.cache
 C:\Users\harbr\Documents\Visual Studio 2015\Projects\TeachersWithStudents\BussinessLayer\obj\Debug\BussinessLayer.dll
 C:\Users\harbr\Documents\Visual Studio 2015\Projects\TeachersWithStudents\BussinessLayer\obj\Debug\BussinessLayer.pdb
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\BussinessLayer\obj\Debug\BussinessLayer.csprojResolveAssemblyReference.cache
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\BussinessLayer\obj\Debug\BussinessLayer.dll
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\BussinessLayer\obj\Debug\BussinessLayer.pdb
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\BussinessLayer\bin\Debug\BussinessLayer.dll.config
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\BussinessLayer\bin\Debug\BussinessLayer.dll
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\BussinessLayer\bin\Debug\BussinessLayer.pdb
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\BussinessLayer\bin\Debug\AutoMapper.dll
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\BussinessLayer\bin\Debug\DataAccessLayer.dll
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\BussinessLayer\bin\Debug\EntityFramework.dll
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\BussinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\BussinessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\BussinessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\BussinessLayer\bin\Debug\AutoMapper.xml
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\BussinessLayer\bin\Debug\EntityFramework.xml
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\BussinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\BussinessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\GitHub\TeacherAndStudents\TeachersWithStudents\BussinessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
