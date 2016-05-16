@@ -1,0 +1,21 @@
+﻿@model BL.DTO.CustomerDTO
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div>
+        @Html.EditorFor(model => model.Name)
+        @Html.ValidationMessageFor(model => model.Name)
+    </div>
+
+    <div>
+        @Html.EditorFor(model => model.Mail)
+        @Html.ValidationMessageFor(model => model.Mail)
+    </div>
+
+    <div>
+        @Html.EditorFor(model => model.Password)
+    </div>
+
+    <input type="submit" value="Change"/>
+}

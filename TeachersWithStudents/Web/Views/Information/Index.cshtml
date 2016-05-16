@@ -1,0 +1,53 @@
+﻿@using Web.Helpers
+@model Web.Models.InformationModel
+
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Scripts/MyScripts/dangerFix.js"></script>
+
+<h2>Index</h2>
+
+<p> Hello, @Model.Name @Model.Surname</p>
+
+<div>
+    @if (User.IsInRole("Admin"))
+    {
+        <div>
+            YOU ARE ADMIN
+        </div>
+    }
+</div>
+
+<div>
+    @Session["MysteriousMessage"]
+</div>
+
+<div>
+    @Html.Enumerate("mlieko", "cukor", "cokolada")
+</div>
+
+<div>
+    @Html.Image("http://automotouver.cz/wp-content/uploads/2015/03/yeti-05_201503231644.jpg", 400, 600)
+</div>
+
+<div>
+    @using (Html.BeginForm())
+    {
+        <p>
+            <input type="submit" value="Post"/>
+        </p>
+    }
+</div>
+
+<div>
+    <button id="myButton" type="button" class="btn btn-danger">Fix Danger</button>
+</div>
+
+<div>
+    <div id="myAlert" class="alert alert-danger">
+        <strong>Danger!</strong> Indicates a dangerous or potentially negative action.
+    </div>
+</div>
+
+<div>
+    @Html.ActionLink("To Customers", "Customers", "Information")
+</div>

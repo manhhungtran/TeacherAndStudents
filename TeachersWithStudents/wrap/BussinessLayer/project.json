@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net45": {
+      "wrappedProject": "../../BussinessLayer/BussinessLayer.csproj",
+      "bin": {
+        "assembly": "../../BussinessLayer/obj/{configuration}/BussinessLayer.dll",
+        "pdb": "../../BussinessLayer/obj/{configuration}/BussinessLayer.pdb"
+      },
+      "dependencies": {
+        "AutoMapper": "4.2.1",
+        "EntityFramework": "6.1.3",
+        "DataAccessLayer": "1.0.0-*",
+        "Microsoft.AspNet.Identity.Core": "2.2.1",
+        "Microsoft.AspNet.Identity.EntityFramework": "2.2.1"
+      }
+    }
+  }
+}

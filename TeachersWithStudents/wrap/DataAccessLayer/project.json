@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net45": {
+      "wrappedProject": "../../DataAccessLayer/DataAccessLayer.csproj",
+      "bin": {
+        "assembly": "../../DataAccessLayer/obj/{configuration}/DataAccessLayer.dll",
+        "pdb": "../../DataAccessLayer/obj/{configuration}/DataAccessLayer.pdb"
+      },
+      "dependencies": {
+        "EntityFramework": "6.1.3",
+        "Microsoft.AspNet.Identity.Core": "2.2.1",
+        "Microsoft.AspNet.Identity.EntityFramework": "2.2.1"
+      }
+    }
+  }
+}

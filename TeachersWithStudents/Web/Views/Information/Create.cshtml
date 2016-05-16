@@ -1,0 +1,26 @@
+﻿@model BL.DTO.CustomerDTO
+
+@using (Html.BeginForm())
+{
+    <div>
+        @Html.LabelFor(model => model.Name)
+        @Html.EditorFor(model => model.Name)
+    </div>
+    <div>
+        @Html.LabelFor(model => model.Mail)
+        @Html.EditorFor(model => model.Mail)
+    </div>
+    <div>
+        @Html.LabelFor(model => model.DateOfBirth)
+        @Html.EditorFor(model => model.DateOfBirth)
+    </div>
+    <div>
+        @Html.LabelFor(model => model.Login)
+        @Html.EditorFor(model => model.Login)
+    </div>
+    <div>
+        @Html.LabelFor(model => model.Password)
+        @Html.EditorFor(model => model.Password)
+    </div>
+    <input type="submit" value="Create"/>
+}

@@ -1,0 +1,12 @@
+c:\users\harbr\documents\visual studio 2015\Projects\TeachersWithStudents\Application\bin\Debug\Application.pdb
+c:\users\harbr\documents\visual studio 2015\Projects\TeachersWithStudents\Application\bin\Debug\DataAccessLayer.dll
+c:\users\harbr\documents\visual studio 2015\Projects\TeachersWithStudents\Application\bin\Debug\EntityFramework.dll
+c:\users\harbr\documents\visual studio 2015\Projects\TeachersWithStudents\Application\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\harbr\documents\visual studio 2015\Projects\TeachersWithStudents\Application\bin\Debug\DataAccessLayer.pdb
+c:\users\harbr\documents\visual studio 2015\Projects\TeachersWithStudents\Application\bin\Debug\EntityFramework.xml
+c:\users\harbr\documents\visual studio 2015\Projects\TeachersWithStudents\Application\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\harbr\documents\visual studio 2015\Projects\TeachersWithStudents\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+c:\users\harbr\documents\visual studio 2015\Projects\TeachersWithStudents\Application\obj\Debug\Application.pdb
+c:\users\harbr\documents\visual studio 2015\Projects\TeachersWithStudents\Application\bin\Debug\Application.exe.config
+c:\users\harbr\documents\visual studio 2015\Projects\TeachersWithStudents\Application\bin\Debug\Application.exe
+c:\users\harbr\documents\visual studio 2015\Projects\TeachersWithStudents\Application\obj\Debug\Application.exe
